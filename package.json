@@ -1,7 +1,11 @@
 {
+  "name": "CursoPTI",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.44"

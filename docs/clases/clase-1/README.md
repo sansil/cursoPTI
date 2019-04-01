@@ -42,3 +42,21 @@ Ahora armaremos la sigueinte configuración usando el kit.
 ::: danger Importante!
 El led es un componente electrónico que permite el paso de la corriente en un solo sentido, por lo tanto ten en cuenta como lo conectas!
 :::
+
+## Pensando como programador
+
+### Que es un Programa?
+
+Un programa o algoritmo es una lista de instrucciones claras, ordenadas, objetivas
+y precisas que describen un procedimiento para la solución de un problema. La
+programación es una herramienta para la creación de programas informáticos que
+realiza procedimientos de manera eficaz y eficiente, escritos en un lenguaje de
+programación que la computadora interpreta y ejecuta.
+Existen diversos lenguajes de programación que permiten a través de la lógica y el
+análisis sistémico de los problemas secuenciar órdenes para procesar datos y en
+base a ellos realizar ciertas funciones.
+
+### Probando con Scratch
+
+Scrtach es un programa gratuito y de software libre que posibilita introducirnos en el mundo de
+la programación de forma intuitiva, a través de una interfaz amigable

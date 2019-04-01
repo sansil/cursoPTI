@@ -1,6 +1,7 @@
 module.exports = {
   title: "Electrónica y Programación Básica",
   description: "Guía de Clases",
+  base: "/cursoPTI/",
   ga: "true",
   // markdown: {
   //   extendMarkdown: md => {

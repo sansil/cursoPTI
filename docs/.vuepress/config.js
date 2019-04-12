@@ -17,11 +17,13 @@ module.exports = {
   ],
   serviceWorker: "true",
   themeConfig: {
+    logo: "/img/Antel_Logo.jpg",
     nav: [
       { text: "Inicio", link: "/" },
       { text: "Clases", link: "/clases/" },
-      { text: "Scratch", link: "https://scratch.mit.edu/projects/editor/" },
-      { text: "Arduino", link: "https://www.arduino.cc" }
+      { text: "Definiciones", link: "/definiciones/" },
+      { text: "Kit", link: "/sensores/" },
+      { text: "Blockly", link: "https://blockly-games.appspot.com/?lang=es" }
     ],
     displayAllHeaders: false,
     // logo: "/public/img/logo-sideBar.png",

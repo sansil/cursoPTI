@@ -56,7 +56,10 @@ Existen diversos lenguajes de programación que permiten a través de la lógica
 análisis sistémico de los problemas secuenciar órdenes para procesar datos y en
 base a ellos realizar ciertas funciones.
 
-### Probando con Scratch
+### Probando con juegos-blockly
 
-Scrtach es un programa gratuito y de software libre que posibilita introducirnos en el mundo de
-la programación de forma intuitiva, a través de una interfaz amigable
+Blockly es un un lenguaje de programación visual compuesto por bloques ensamblables, correspondientes a las distintas instrucciones de manera que programar se reduce a seleccionar y ensamblar ordenadamente las instrucciones que quieres ejecutar.
+
+Entremos al siguiente Link:
+
+[Juego](https://blockly-games.appspot.com/maze?lang=es&level=1&skin=2)

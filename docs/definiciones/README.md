@@ -70,11 +70,12 @@ Periférico es la denominación genérica para designar al aparato y/o dispositi
 
 ## Tensión eléctrica
 
-La o diferencia de potencial o voltaje es una magnitud física que cuantifica la diferencia de potencial eléctrico entre dos puntos.
+La diferencia de potencial o voltaje (V) es una magnitud física que cuantifica la diferencia de potencial eléctrico entre dos puntos.
+La tensión entre dos puntos **A** y **B** es independiente del camino recorrido por la carga y depende exclusivamente del potencial eléctrico de dichos puntos **A** y **B**
 
 ## Corriente eléctrica
 
-La corriente eléctrica es el flujo de carga eléctrica que recorre un material. Se debe al movimiento de las cargas (normalmente electrones) en el interior del mismo. Al caudal de corriente (cantidad de carga por unidad de tiempo) se le denomina intensidad de corriente eléctrica.
+La corriente eléctrica (A) es el flujo de carga eléctrica que recorre un material. Se debe al movimiento de las cargas (normalmente electrones) en el interior del mismo. Al caudal de corriente (cantidad de carga por unidad de tiempo) se le denomina intensidad de corriente eléctrica.
 
 ## Resistencia eléctrica
 
@@ -91,6 +92,14 @@ Un divisor de voltaje resistivo es una configuración de un circuito eléctrico 
 ## Conversor analógico-digital (ADC):
 
 Es el proceso mediante el cual se convierte una magnitud física como un voltaje, corriente, temperatura, etc. en un número binario (o señal digital) con el propósito de facilitar su manejo por circuitos digitales como un CPU.
+
+## Salida digital
+
+Se trata de pines donde el usuario puede activar (poner tensión) o desactivar (quitar tensión). Es similar a escribir **0** y **1**, en arduino se traduce a **0V** y **5V**.
+
+## Frecuencia
+
+La frecuencia es una magnitud que mide el número de repeticiones por unidad de tiempo de cualquier fenómeno o suceso periódico.
 
 ## Referencias
 

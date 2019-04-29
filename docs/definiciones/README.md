@@ -14,7 +14,7 @@ El software de código abierto es el software cuyo código fuente y otros derech
 
 ## Hardware libre
 
-Se llama hardware libre, hardware de código abierto, electrónica libre o máquinas libres a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público, ya sea bajo algún tipo de pago, o de forma gratuita.
+Se llama hardware libre, hardware de código abierto o electrónica libre a aquellos dispositivos de hardware cuyas especificaciones y diagramas esquemáticos son de acceso público.
 
 ## Variable
 
@@ -100,6 +100,10 @@ Se trata de pines donde el usuario puede activar (poner tensión) o desactivar (
 ## Frecuencia
 
 La frecuencia es una magnitud que mide el número de repeticiones por unidad de tiempo de cualquier fenómeno o suceso periódico.
+
+## Período
+
+Un período de tiempo es el tiempo necesario para que un ciclo completo de vibración pase en un punto dado.​ A medida que la frecuencia de una onda aumenta, el período de tiempo de la onda disminuye. La unidad para el período de tiempo es 'segundos'.
 
 ## Referencias
 

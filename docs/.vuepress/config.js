@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Electrónica y Programación Básica",
+  title: "Taller de programación y automatismos",
   description: "Guía de Clases",
   base: "/cursoPTI/",
   ga: "true",

@@ -97,4 +97,40 @@ void loop()
 
 ```
 
+## Módulo micrófono
+
+Un micrófono es un transductor que convierte la energía sonora en señales eléctricas. Micrófonos están disponibles en diferentes formas y tamaños.
+
+El módulo que utilizaremos tiene dos salidas:
+
+- AO: salida analógica, señal de voltaje de salida en tiempo real del micrófono
+- DO: salida digital, cuando la intensidad del sonido alcanza un cierto umbral, la salida es una señal de nivel alto o bajo. La sensibilidad del umbral puede lograrse ajustando el potenciómetro.
+
+Para asegurarse de que el micrófono pueda detectar tu voz o un sonido de palmas, se debe cambiar su sensibilidad girando el potenciómetro azul en el módulo.
+
+<img src="../../assets/img/partes-microfono.png" alt="arduino 1 img" width="350"/>
+
+### Conceptos importantes
+
+- [Salida digital](/definiciones/#salida-digital)
+- [Frecuencia](/definiciones/#frecuencia)
+- [Conversión analógico-digital (ADC)](/definiciones/#conversor-analogico-digital-adc)
+
+### Código de ejemplo
+
+```arduino{0}
+int  sensorPin  =  A0;     // pin a conectar en el ADC
+int  ledPin  =  13;   // pin LED
+int  sensorValue =  0;  // Variable para guardar el estado
+
+void setup() {
+  pinMode(ledPin, OUTPUT);
+  Serial.begin(9600);
+}
+void loop() {
+  sensorValue =  analogRead(sensorPin);
+  Serial.println(sensorValue,  DEC);
+}
+
 ## Servo
+```

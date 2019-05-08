@@ -109,3 +109,4 @@ Un período de tiempo es el tiempo necesario para que un ciclo completo de vibra
 
 - [Wikipedia](https://es.wikipedia.org/wiki)
 - [fing](https://www.fing.edu.uy/inco/cursos/fpr/wiki)
+- [aprendiendo arduino](https://aprendiendoarduino.wordpress.com)

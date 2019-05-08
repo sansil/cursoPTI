@@ -30,7 +30,13 @@ module.exports = {
     sidebar: [
       ["/", "Inicio"],
       ["/clases/clase-1/", "Clase 1"],
-      ["/clases/clase-2/", "Clase 2"]
+      ["/clases/clase-2/", "Clase 2"],
+      ["/clases/clase-3/", "Clase 3"],
+      ["/clases/clase-4/", "Clase 4"]
+      // ["/clases/clase-5/", "Clase 5"],
+      // ["/clases/clase-6/", "Clase 6"],
+      // ["/clases/clase-7/", "Clase 7"],
+      // ["/clases/clase-8/", "Clase 8"]
     ]
   }
 };

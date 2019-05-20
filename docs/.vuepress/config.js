@@ -23,7 +23,10 @@ module.exports = {
       { text: "Clases", link: "/clases/" },
       { text: "Definiciones", link: "/definiciones/" },
       { text: "Kit", link: "/sensores/" },
-      { text: "Blockly", link: "https://blockly-games.appspot.com/?lang=es" }
+      {
+        text: "Arduino Blocks",
+        link: "http://www.arduinoblocks.com/web/project/editordemo#"
+      }
     ],
     displayAllHeaders: false,
     // logo: "/public/img/logo-sideBar.png",
@@ -34,8 +37,8 @@ module.exports = {
       ["/clases/clase-3/", "Clase 3"],
       ["/clases/clase-4/", "Clase 4"],
       ["/clases/clase-5/", "Clase 5"],
-      ["/clases/clase-6/", "Clase 6"]
-      // ["/clases/clase-7/", "Clase 7"],
+      ["/clases/clase-6/", "Clase 6"],
+      ["/clases/clase-7/", "Clase 7"]
       // ["/clases/clase-8/", "Clase 8"]
     ]
   }
